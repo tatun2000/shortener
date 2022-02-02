@@ -19,4 +19,4 @@
 _____________________________________________________________________________
 Как уже было отмечено выше, в роли хранилища выступает *BoltDB*, в котором данные хранятся в виде коллекций *Bucket*, каждая из которых представляет собой множество key-value. Множество key-value хранится в виде *B+ дерева*.
 
-<img src="http://cburch.com/cs/340/reading/btree/btree-6.png" width=600px, height=500px>
+<img src="http://cburch.com/cs/340/reading/btree/btree-6.png" width=700px, height=500px>
